@@ -1,0 +1,24 @@
+# Página Web de apresentação pessoal
+## Contexto
+Página web de apresentação pessoal.
+Deploy no GitHub Pages (Gratuito)
+## Restições técnicas absolutas
+- Apenas HTML, CSS e JavaScript puro (sem React, Vue, Angular)
+- Nenhuma dependência que precise de processo de build
+- Deve funcionar abrindo o index.html diretamente no navegador
+- CSS em arquivo separado: styles.css
+- JavaScript em arquivo separado: script.js
+## Diretrizes de design
+- Design minimalista e profissional
+- Mobile-first (responsivo)
+- Paleta neutra com um acento de cor
+- Carregamento rápido (sem imagens pesadas)
+- Essa página deve passar credibilidade para empresas, tomadores de decisão, recrutadores de RH e Head Hunters de Profissinal 
+sênior com 25 anos de experiência atuando em projetos de grande, médio e pequeno portes com atuação no ciclo completo de 
+implantação de empreendimentos em clientes publicos e privados em obras de Infraestrutura, Óleo e Gás (Petrobras e Eneva), 
+Petroquímica, Mineração e Siderurgia (Vale e Anglo American), Papel e Celulose (Suzano), Automobilístico e sanemento.
+- A pagina deve soar sóbria e corporativa com tom institucional 
+## Arquivos do projeto
+- index.html: estrutura principal
+- styles.css: todos os estilos
+- script.js: interatividade
